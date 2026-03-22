@@ -2,5 +2,6 @@
 *.xlsx
 *.pptx
 *.pdf
+*.db
 desktop.ini
 Thumbs.db
